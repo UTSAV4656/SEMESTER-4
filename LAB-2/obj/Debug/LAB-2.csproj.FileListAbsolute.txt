@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\Utsav.net\LAB-2\bin\Debug\LAB-2.exe.config
+C:\Users\student\Desktop\Utsav.net\LAB-2\bin\Debug\LAB-2.exe
+C:\Users\student\Desktop\Utsav.net\LAB-2\bin\Debug\LAB-2.pdb
+C:\Users\student\Desktop\Utsav.net\LAB-2\obj\Debug\LAB-2.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Utsav.net\LAB-2\obj\Debug\LAB-2.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Utsav.net\LAB-2\obj\Debug\LAB-2.exe
+C:\Users\student\Desktop\Utsav.net\LAB-2\obj\Debug\LAB-2.pdb
