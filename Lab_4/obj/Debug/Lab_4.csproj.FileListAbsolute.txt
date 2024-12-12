@@ -1,0 +1,7 @@
+D:\Coding\Sem_4\ASP.NET core\Lab_4\bin\Debug\Lab_4.exe.config
+D:\Coding\Sem_4\ASP.NET core\Lab_4\bin\Debug\Lab_4.exe
+D:\Coding\Sem_4\ASP.NET core\Lab_4\bin\Debug\Lab_4.pdb
+D:\Coding\Sem_4\ASP.NET core\Lab_4\obj\Debug\Lab_4.csproj.AssemblyReference.cache
+D:\Coding\Sem_4\ASP.NET core\Lab_4\obj\Debug\Lab_4.csproj.CoreCompileInputs.cache
+D:\Coding\Sem_4\ASP.NET core\Lab_4\obj\Debug\Lab_4.exe
+D:\Coding\Sem_4\ASP.NET core\Lab_4\obj\Debug\Lab_4.pdb
