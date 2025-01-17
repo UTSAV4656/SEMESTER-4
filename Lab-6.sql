@@ -80,7 +80,8 @@ WHILE @@FETCH_STATUS = 0
 CLOSE Product_Cursor_PRICE
 DEALLOCATE Product_Cursor_PRICE
 
---4. Create a cursor Product_CursorDelete that deletes all the data from the Products table.DECLARE @Product_id INT
+--4. Create a cursor Product_CursorDelete that deletes all the data from the Products table.
+DECLARE @Product_id INT
 DECLARE Product_CursorDelete CURSOR 
 FOR SELECT Product_id FROM Products
 OPEN  Product_CursorDelete
@@ -142,14 +143,14 @@ CLOSE Product_CursorUpdate_ROUND
 DEALLOCATE Product_CursorUpdate_ROUND
 
 SELECT * FROM Products
----------------------------------PART-B---------------------------------
+---------------------------------PART-C---------------------------------
 CREATE TABLE NewProducts (
  Product_id INT PRIMARY KEY,
  Product_Name VARCHAR(250) NOT NULL,
  Price DECIMAL(10, 2) NOT NULL
 );
 
---7. Create a cursor to insert details of Products into the NewProducts table if the product is ìLaptopî
+--7. Create a cursor to insert details of Products into the NewProducts table if the product is ‚ÄúLaptop‚Äù
 --(Note: Create NewProducts table first with same fields as Products table)
 DECLARE 
 	@Product_id INT,
